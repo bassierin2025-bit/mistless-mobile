@@ -1,4 +1,4 @@
-const CACHE = 'mistless-v23';
+const CACHE = 'mistless-v24';
 const ASSETS = ['./', './index.html', './manifest.json', './icon.svg'];
 
 self.addEventListener('install', e => {
